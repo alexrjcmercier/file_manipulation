@@ -1,3 +1,4 @@
+#coding:utf-8
 #!/bin/env python2.7
 #All inputs and outputs are hardcoded into the script
 #It uses the individual/vcf file names and the chromosome number to iterate on vcf files and find the line corresponding to the different chromosomes.
